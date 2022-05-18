@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "442366280734",
+    "project_id": "taskadder-8f1d8",
+    "storage_bucket": "taskadder-8f1d8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:442366280734:android:7b20c1bc3029ac06a69a0f",
+        "android_client_info": {
+          "package_name": "com.task9adderr.taskadder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "442366280734-n37ol9oqs7gvi2ri7hee9t9oahivtgg4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfpc1ZhEL9c7XdqKt6Z4jEvJo7vhJcOrY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "442366280734-n37ol9oqs7gvi2ri7hee9t9oahivtgg4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

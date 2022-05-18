@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/task9adderr/taskadder/BuildConfig.java
+ com.task9adderr.taskadder.BuildConfig
